@@ -1,18 +1,48 @@
+# Hi 👋 I'm Suhas
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Suhas P S) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suhas-p-s/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suhas00012@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Suhas P S&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Suhas P S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas P S&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Suhas P S&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a **Business Analyst / Financial Analyst** experienced in analyzing structured
+data, building dashboards, and generating insights to support business and
+operational decision-making.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Suhas P S&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔎 Current Focus
+- Actively applying for **Business Analyst roles**
+- Delivering analytics projects in **banking and business domains**
+- Creating dashboards and reports using **Excel, SQL, Power BI, and Tableau**
+
+---
+
+## 💼 About Me
+- Role: Business Analyst | Financial Analyst  
+- Industry Focus: General Business Analytics  
+- Location: Hyderabad, Telangana, India 
+- Core Areas: transaction analysis, KPI reporting, business insights
+
+---
+
+## 🛠️ Skills & Tools
+- **Data Analysis**: Excel, SQL (MySQL)  
+- **BI & Visualization**: Power BI, Tableau  
+- **Analytics Support**: Python, R (data analysis support)  
+- **Foundations**: Statistics, business metrics  
+- **Ways of Working**: Agile fundamentals, stakeholder reporting
+
+---
+
+## 📊 Featured Projects
+- **Adventure Works Cycles — Sales Analysis**  
+  Product performance, sales trends, and management dashboards.
+
+- **Banking Operations & Transaction Analysis**  
+  Credit–debit behavior, suspicious transaction analysis, and operational reporting.
+
+(See pinned repositories below 👇)
+
+---
+
+## 📫 Contact
+- 📧 Email: suhas00012@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/suhas-p-s/
+
+---
