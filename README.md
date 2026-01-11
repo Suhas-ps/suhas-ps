@@ -1,48 +1,54 @@
 # Hi 👋 I'm Suhas
 
-I'm a **Business Analyst / Financial Analyst** experienced in analyzing structured
-data, building dashboards, and generating insights to support business and
-operational decision-making.
+I'm a Business Analyst / Financial Analyst with experience turning structured data into actionable insights, dashboards, and reports that support business and operational decision-making.
 
 ---
 
-## 🔎 Current Focus
-- Actively applying for **Business Analyst roles**
-- Delivering analytics projects in **banking and business domains**
-- Creating dashboards and reports using **Excel, SQL, Power BI, and Tableau**
+## 🔎 Current focus
+- Actively applying for **Business Analyst** roles  
+- Delivering analytics projects in **banking** and **business** domains  
+- Building dashboards and reports using **Excel, SQL, Power BI, and Tableau**
 
 ---
 
-## 💼 About Me
+## 💼 About me
 - Role: Business Analyst | Financial Analyst  
-- Industry Focus: General Business Analytics  
-- Location: Hyderabad, Telangana, India 
-- Core Areas: transaction analysis, KPI reporting, business insights
+- Location: Hyderabad, India  
+- Domain strengths: transaction analysis, KPI reporting, operational / business insights  
+- Approach: clear stakeholder reporting, data-driven recommendations, Agile fundamentals
 
 ---
 
-## 🛠️ Skills & Tools
-- **Data Analysis**: Excel, SQL (MySQL)  
-- **BI & Visualization**: Power BI, Tableau  
-- **Analytics Support**: Python, R (data analysis support)  
-- **Foundations**: Statistics, business metrics  
-- **Ways of Working**: Agile fundamentals, stakeholder reporting
+## 🛠️ Skills & tools
+- Data Analysis: Excel, SQL (MySQL)  
+- BI & Visualization: Power BI, Tableau  
+- Scripting & analysis support: Python, R  
+- Foundations: statistics, business metrics, KPI design  
+- Ways of working: stakeholder communication, Agile basics
 
 ---
 
-## 📊 Featured Projects
+## 📊 Selected projects
 - **Adventure Works Cycles — Sales Analysis**  
-  Product performance, sales trends, and management dashboards.
+  Product performance review, sales trends, and management dashboards.
 
 - **Banking Operations & Transaction Analysis**  
-  Credit–debit behavior, suspicious transaction analysis, and operational reporting.
+  Credit/debit behavior analysis, suspicious transaction detection support, operational reporting.
 
-(See pinned repositories below 👇)
+- **🎮 Fun project — Snake Game**  
+  A lightweight web-based Snake game (HTML/CSS/JS). Play locally or view the live demo (if hosted).  
+  - Repo: https://github.com/Suhas-ps/snake-game (replace with your repo)  
+  - Live demo: https://suhas-ps.github.io/snake-game (replace with your Pages URL)  
+  - Run locally: open `index.html` in your browser
+
+(See pinned repositories for full reports and dashboards 👇)
 
 ---
 
-## 📫 Contact
-- 📧 Email: suhas00012@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/suhas-p-s/
+## 📫 Contact & links
+- Email: suhas00012@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/suhas-p-s/  
 
 ---
+
+Thank you for visiting — open to opportunities and conversations about analytics, banking, and dashboarding. 👋
