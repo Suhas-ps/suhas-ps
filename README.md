@@ -35,12 +35,6 @@ I'm a Business Analyst / Financial Analyst with experience turning structured da
 - **Banking Operations & Transaction Analysis**  
   Credit/debit behavior analysis, suspicious transaction detection support, operational reporting.
 
-- **🎮 Fun project — Snake Game**  
-  A lightweight web-based Snake game (HTML/CSS/JS). Play locally or view the live demo (if hosted).  
-  - Repo: https://github.com/Suhas-ps/snake-game (replace with your repo)  
-  - Live demo: https://suhas-ps.github.io/snake-game (replace with your Pages URL)  
-  - Run locally: open `index.html` in your browser
-
 (See pinned repositories for full reports and dashboards 👇)
 
 ---
